@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="true">Conhecendo Museus</string>
+    <string name="intro_text" translatable="true">A obra audiovisual Conhecendo Museus apresenta, com detalhes, os principais museus do Brasil. O objetivo é divulgar bens e valores culturais da humanidade democratizando o conhecimento gerado por essas instituições, além de divertir e fomentar o surgimento de novos públicos.</string>
+    <string name="conhecer_series_btn" translatable="true">Conhecer as séries</string>
+
+    <string name="temporadas">Temporadas</string>
+</resources>
